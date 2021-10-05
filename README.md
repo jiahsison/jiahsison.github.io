@@ -1,5 +1,7 @@
 ## Welcome to My Website
 
+<div align="center"><img src="jiah.jpg" width="200" height="200" alt="photo-of-jiah" /></div>
+
 You can use the [editor on GitHub](https://github.com/jiahsison/jiahsison.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
